@@ -1,0 +1,4 @@
+C:/Users/sklya/OneDrive/Робочий стіл/uchba/Семестр - 5/СП/calculator/build/CMakeFiles/calculator.dir
+C:/Users/sklya/OneDrive/Робочий стіл/uchba/Семестр - 5/СП/calculator/build/CMakeFiles/calculator_exec.dir
+C:/Users/sklya/OneDrive/Робочий стіл/uchba/Семестр - 5/СП/calculator/build/CMakeFiles/edit_cache.dir
+C:/Users/sklya/OneDrive/Робочий стіл/uchba/Семестр - 5/СП/calculator/build/CMakeFiles/rebuild_cache.dir
